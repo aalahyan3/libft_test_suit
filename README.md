@@ -14,5 +14,5 @@ i made a test suit for libft project in 42 cursus
 3. run `cd test_suit`
 4. Finally you can just run `make ` and the evaluation should start
 
-#Note
-  this version contains only tests from ft_isalpha() to ft_split()
+# Note
+ this version contains only tests from ft_isalpha() to ft_split()
