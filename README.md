@@ -2,7 +2,7 @@
 i made a test suit for libft project in 42 cursus
 # usage
 1. clone this repo using the folowwing command :
-    `git clone https://github.com/Ayyoudev/libft_test_suit test_suit`
+    ```git clone https://github.com/Ayyoudev/libft_test_suit test_suit```
 
 2. put your libft folder so that : 
 ```--.
