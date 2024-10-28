@@ -15,6 +15,6 @@ i made a test suit for libft project in 42 cursus
 4. Finally you can just run `make ` and the evaluation should start
 
 # ScreenShot
-![Alt text](Screen Shot.png)
+![Alt text](Screenshot.png)
 # Note
  this version contains only tests from ft_isalpha() to ft_split()
